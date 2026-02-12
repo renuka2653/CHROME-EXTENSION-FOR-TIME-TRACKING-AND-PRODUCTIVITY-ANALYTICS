@@ -14,4 +14,4 @@ Intern ID: CTIS5600
 
  Task :- CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
  
- Output := 
+ Output := <img width="1079" height="691" alt="Image" src="https://github.com/user-attachments/assets/be2904cf-e5b2-46fa-840f-0bcef9cf5b43" />
